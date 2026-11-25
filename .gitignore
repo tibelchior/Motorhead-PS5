@@ -1,0 +1,10 @@
+# build output and the packaged title (contains the game files)
+dist/
+# macOS / editor
+.DS_Store
+*.bak
+*.orig
+# runtime logs and local game folders
+*.log
+game/
+Motorhead/
